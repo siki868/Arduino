@@ -66,5 +66,5 @@ void loop() {
     Serial.print(" - ");
     Serial.println(data - '0');
   }
-  delay(15);
+  delay(20);
 }
