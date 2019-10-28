@@ -5,8 +5,6 @@ int pin = 11;
 IRrecv receiver(pin);
 decode_results res;
 
-
-
 void setup() {
   Serial.begin(9600);
   receiver.enableIRIn();

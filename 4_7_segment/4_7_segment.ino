@@ -38,7 +38,7 @@ void loop() {
   digitalWrite(pinE, HIGH);   
   digitalWrite(pinF, LOW);   
   digitalWrite(pinG, LOW);   
-  delay(1000);               // wait for a second
+  delay(1000);
   
   digitalWrite(D1, LOW);
   digitalWrite(D2, HIGH);
@@ -52,7 +52,7 @@ void loop() {
   digitalWrite(pinE, LOW);   
   digitalWrite(pinF, LOW);   
   digitalWrite(pinG, LOW);   
-  delay(1);               // wait for a second
+  delay(1000);
   
   digitalWrite(D1, LOW);
   digitalWrite(D2, LOW);
@@ -66,7 +66,7 @@ void loop() {
   digitalWrite(pinE, LOW);   
   digitalWrite(pinF, HIGH);   
   digitalWrite(pinG, LOW);     
-  delay(1000);               // wait for a second
+  delay(1000);
 
   digitalWrite(D1, LOW);
   digitalWrite(D2, LOW);
@@ -80,7 +80,7 @@ void loop() {
   digitalWrite(pinE, LOW);   
   digitalWrite(pinF, LOW);   
   digitalWrite(pinG, HIGH);     
-  delay(1000);               // wait for a second
+  delay(1000);
  
   //4
   digitalWrite(pinA, HIGH);   
@@ -90,7 +90,7 @@ void loop() {
   digitalWrite(pinE, HIGH);   
   digitalWrite(pinF, LOW);   
   digitalWrite(pinG, LOW);     
-  delay(1000);               // wait for a second
+  delay(1000);
   
   //5
   digitalWrite(pinA, LOW);   
@@ -100,7 +100,7 @@ void loop() {
   digitalWrite(pinE, HIGH);   
   digitalWrite(pinF, LOW);   
   digitalWrite(pinG, LOW);     
-  delay(1000);               // wait for a second
+  delay(1000);
   
   //6
   digitalWrite(pinA, LOW);   
@@ -110,7 +110,7 @@ void loop() {
   digitalWrite(pinE, LOW);   
   digitalWrite(pinF, LOW);   
   digitalWrite(pinG, LOW);     
-  delay(1000);               // wait for a second
+  delay(1000);
   
   //7
   digitalWrite(pinA, LOW);   
@@ -120,7 +120,7 @@ void loop() {
   digitalWrite(pinE, HIGH);   
   digitalWrite(pinF, HIGH);   
   digitalWrite(pinG, HIGH);     
-  delay(1000);               // wait for a second
+  delay(1000);
   
   //8
   digitalWrite(pinA, LOW);   
@@ -130,7 +130,7 @@ void loop() {
   digitalWrite(pinE, LOW);   
   digitalWrite(pinF, LOW);   
   digitalWrite(pinG, LOW);     
-  delay(1000);               // wait for a second
+  delay(1000);
 
   
   digitalWrite(pinA, LOW);   

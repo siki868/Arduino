@@ -1,6 +1,4 @@
 #include <DHT.h>
-
-
 DHT dht;
 
 int dhtPin = 0;

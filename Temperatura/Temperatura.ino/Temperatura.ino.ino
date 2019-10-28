@@ -1,10 +1,7 @@
 #include <dht.h>
+#define DHTPIN 0
 
 dht DHT11;
-
-  #define DHTPIN 0
-
-
 
 //DHT dht(DHTPIN, DHT11);
 
@@ -20,4 +17,3 @@ void loop(){
   Serial.println(nes);
   delay(3000);
 }
-
